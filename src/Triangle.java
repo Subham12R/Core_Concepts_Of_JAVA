@@ -20,6 +20,7 @@ public class Triangle {
 
         String roundedArea = String.format("%.2f", area);
 
+
         System.out.println("Area of the triangle: " + roundedArea + " cm^2");
 
         input.close();
